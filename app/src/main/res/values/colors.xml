@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base Colors -->
+    <color name="black">#0F172A</color> <!-- softer black (slate-900) -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- ========================= -->
+    <!-- Payment Theme (Modern UI) -->
+    <!-- ========================= -->
+    <color name="payment_primary">#2563EB</color> <!-- modern blue -->
+    <color name="payment_primary_dark">#1E40AF</color> <!-- deeper blue -->
+    <color name="payment_primary_light">#DBEAFE</color> <!-- soft blue bg -->
+    <color name="payment_bg">#F1F5F9</color> <!-- subtle gray background -->
+    <color name="payment_surface">#FFFFFF</color>
+
+    <!-- ========================= -->
+    <!-- Status Colors (Refined) -->
+    <!-- ========================= -->
+
+    <!-- Success -->
+    <color name="status_success">#16A34A</color> <!-- modern green -->
+    <color name="status_success_bg">#DCFCE7</color>
+
+    <!-- Failed -->
+    <color name="status_failed">#DC2626</color> <!-- cleaner red -->
+    <color name="status_failed_bg">#FEE2E2</color>
+
+    <!-- Pending -->
+    <color name="status_pending">#F59E0B</color> <!-- amber -->
+    <color name="status_pending_bg">#FEF3C7</color>
+
+    <!-- ========================= -->
+    <!-- Dark Mode (Balanced) -->
+    <!-- ========================= -->
+
+    <color name="dark_bg">#020617</color> <!-- deep slate -->
+    <color name="dark_surface">#0F172A</color>
+
+    <color name="status_success_bg_dark">#052E16</color>
+    <color name="status_failed_bg_dark">#450A0A</color>
+    <color name="status_pending_bg_dark">#451A03</color>
+
+</resources>

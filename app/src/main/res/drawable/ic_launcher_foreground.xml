@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Thin Circular Outline -->
+    <path
+        android:pathData="M54,54m-32,0a32,32 0,1 1,64 0a32,32 0,1 1,-64 0"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- ₹ Symbol -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,38 L40,38 L40,42 L68,42 L68,38 Z M68,46 L40,46 L40,50 L48,50 C48,50 48,58 54,58 L68,58 L68,54 L54,54 C52,54 52,50 52,50 L68,50 L68,46 Z M40,50 L40,54 L48,54 L40,68 L40,72 L48,72 L60,58 L48,58 L40,50 Z" />
+</vector>
